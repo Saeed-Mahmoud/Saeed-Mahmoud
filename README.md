@@ -16,10 +16,13 @@
 </p>
 
 <!-- About me details -->
+![star-wars-obi-wan-kenobi](https://github.com/Saeed-Mahmoud/Saeed-Mahmoud/assets/61454170/ea25baef-c790-4947-896c-98fd0916e209)
+
+
 ## About me
 
 <p>
-    [star-wars-obi-wan-kenobi](https://github.com/Saeed-Mahmoud/Saeed-Mahmoud/assets/61454170/171ddb1a-77da-402e-95a9-a4ab367d39a7)
+    
     ✌️ &emsp; Enjoy doing programming and sharing knowledge<br />
     ❤️ &emsp; Love to challenge myself<br />
     📧 &emsp; Reach me anytime: saeedmahmoud22@gmail.com<br />
