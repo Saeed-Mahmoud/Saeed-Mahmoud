@@ -19,8 +19,7 @@
 ## About me
 
 <p>
-    <img align="right" width="350" src=![star-wars-obi-wan-kenobi](https://github.com/Saeed-Mahmoud/Saeed-Mahmoud/assets/61454170/171ddb1a-77da-402e-95a9-a4ab367d39a7)
-.gif" alt="Coding gif" />
+    <img align="right" width="350" src=![star-wars-obi-wan-kenobi](https://github.com/Saeed-Mahmoud/Saeed-Mahmoud/assets/61454170/171ddb1a-77da-402e-95a9-a4ab367d39a7)  />
     ✌️ &emsp; Enjoy doing programming and sharing knowledge<br />
     ❤️ &emsp; Love to challenge myself<br />
     📧 &emsp; Reach me anytime: saeedmahmoud22@gmail.com<br />
