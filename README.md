@@ -19,7 +19,7 @@
 ## About me
 
 <p>
-    <img align="right" width="350" src=![star-wars-obi-wan-kenobi](https://github.com/Saeed-Mahmoud/Saeed-Mahmoud/assets/61454170/171ddb1a-77da-402e-95a9-a4ab367d39a7)  />
+    [star-wars-obi-wan-kenobi](https://github.com/Saeed-Mahmoud/Saeed-Mahmoud/assets/61454170/171ddb1a-77da-402e-95a9-a4ab367d39a7)
     ✌️ &emsp; Enjoy doing programming and sharing knowledge<br />
     ❤️ &emsp; Love to challenge myself<br />
     📧 &emsp; Reach me anytime: saeedmahmoud22@gmail.com<br />
@@ -39,7 +39,6 @@
 
 ### Frameworks
 <p align="center">
-     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    
 </p>
